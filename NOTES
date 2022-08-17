@@ -1,0 +1,6 @@
+- RUN npx @vue/cli create project-template
+
+Vuex
+
+- vuex flow => action will trigger mutation
+- to execute action, add ...mapActions(["ACTION_NAME"]) in methods Components
